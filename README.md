@@ -1,4 +1,3 @@
-Ce projet a pour objectif de mettre en concurrence différents alogorithmes afin de prédire les émissions de CO2 et la consommation totale d’énergie de bâtiments 
-non destinés à l’habitation
+The aim of this project is to compare different algorithms to predict CO2 emissions and total energy consumption for non-residential buildings. The datasets are available on Kaggle at the following address: 
 
 https://www.kaggle.com/datasets/city-of-seattle/sea-building-energy-benchmarking/data
